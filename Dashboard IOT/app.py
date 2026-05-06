@@ -4,7 +4,8 @@ import json
 import time
 from datetime import datetime
 
-app = Flask(__name__)
+import os
+app = Flask(__name__, template_folder='templates')
 CORS(app)
 
 # In-memory storage for slot data
