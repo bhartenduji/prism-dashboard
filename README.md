@@ -328,19 +328,18 @@ Optimize emergency and visitor parking.
 
 # 📸 Screenshots
 
-> Add your project screenshots here.
+> <img width="1917" height="923" alt="image" src="https://github.com/user-attachments/assets/f6d44e5b-d4de-47ac-a737-29fbcef8e2b7" />
 
-Example:
+<img width="1902" height="917" alt="image" src="https://github.com/user-attachments/assets/5193f364-111d-4a21-a833-fc7a5e9dde03" />
 
-```md
-![Dashboard](screenshots/dashboard.png)
-```
+<img width="1917" height="932" alt="image" src="https://github.com/user-attachments/assets/b2681fff-fe8c-47d8-81a1-16e319c9ce87" />
 
----
+<img width="1912" height="917" alt="image" src="https://github.com/user-attachments/assets/04daaa26-0a16-4807-8f32-001d6106ffe6" />
+
 
 # 👨‍💻 Developed By
 
-## Krish Dubey
+## Bhartendu Ji
 
 B.Tech CSE (AI-ML)
 GLA University
